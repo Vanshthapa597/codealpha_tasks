@@ -1,0 +1,4 @@
+stock name:APPL
+Price:180
+Quantity:180
+Total Investment :32400
